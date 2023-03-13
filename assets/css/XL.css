@@ -1,0 +1,143 @@
+/*xl*/
+@media screen and (min-width:1200px){
+    .header{
+        margin: auto;
+        text-align: center;
+        font-family: "yekan";
+        margin-top: 2vh;
+    }
+    .header h4{
+        color: #ccae62;
+    }
+    .wrp-title-header{
+        text-align: center;
+        font-family: "yekan";
+        margin-top: 5vh;
+    }
+    .wrp-title-header h1{
+        font-size: 29px;
+        color: #303030;
+
+    }
+    .wrp-btns{
+        display: flex;
+        float: left;
+        margin-top: 13vh;
+
+    }
+    .reset-btn{
+        width: 55px;
+        height: 55px;
+        background-color: #ccae62;
+        cursor: pointer;
+        border-radius: 50px;
+        margin-left: 1vw;
+        margin-top: 2vh;
+        
+
+    }
+    .reset-icon{
+        width: 50px;
+    height: 50px;
+    margin-left: 3px;
+    margin-top: 3px;
+    }
+    .add-btn{
+        width: 90px;
+        height: 90px;
+background: #ffffff;
+box-shadow:  5px 5px 24px #f0f0f0,
+             -5px -5px 24px #ffffff;
+             border-radius: 50px;
+             text-align: center;
+             color: #ccae62;
+             font-size: 54px;
+             cursor: pointer;
+             margin-left: 1vw;
+    }
+    .sub-btn{
+        width: 90px;
+        height: 90px;
+background: #ffffff;
+box-shadow:  5px 5px 24px #f0f0f0,
+             -5px -5px 24px #ffffff;
+             border-radius: 50px;
+             text-align: center;
+             color: #ccae62;
+             font-size: 54px;
+             cursor: pointer;
+             margin-left: 2vw;
+    }
+    .wrp-counter{
+        width: 250px;
+        height: 250px;
+        background: #ffffff;
+box-shadow:  5px 5px 24px #f0f0f0,
+             -5px -5px 24px #ffffff;
+             color: #303030;
+             font-family: "yekan";
+             padding-top: 70px;
+             margin-right: 2vw;
+             margin-top: 5vh;
+    }
+    .wrp-counter h1{
+        font-size: 100px;
+        text-align: center;
+
+    }
+    .wrp-parent-title{
+        margin-top: 3vh;
+    }
+    .wrp-title-right{
+        width: 400px;
+        height: 70px;
+        background: #ffffff;
+box-shadow:  5px 5px 24px #f0f0f0,
+             -5px -5px 24px #ffffff;
+             float: left;
+             margin-top: 3vh;
+
+    }
+    .wrp-title-left{
+        width: 400px;
+        height: 70px;
+        background: #ffffff;
+box-shadow:  5px 5px 24px #f0f0f0,
+             -5px -5px 24px #ffffff;
+             float: right;
+             margin-top: 3vh;
+
+    }
+    .wrp-title-right p{
+        font-family: "yekan";
+        text-align: center;
+        font-size: 22px;
+        margin-top: 18px;
+    }
+    .wrp-title-left p{
+        font-family: "yekan";
+        text-align: center;
+        font-size: 22px;
+        margin-top: 18px;
+    }
+    .wrp-title-center{
+        width: 400px;
+        height: 70px;
+        background: #ffffff;
+box-shadow:  5px 5px 24px #f0f0f0,
+             -5px -5px 24px #ffffff;
+             margin: auto;
+             margin-top: 3vh;
+             padding-top: 18px;
+    }
+    .wrp-title-center p{
+        font-family: "yekan";
+        text-align: center;
+        font-size: 22px;
+    }
+
+}
+@font-face {
+    font-family: yekan;
+    src: url("../font/IRANYekanWebRegular.woff");
+}
